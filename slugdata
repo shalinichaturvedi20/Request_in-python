@@ -1,0 +1,12 @@
+{
+        "id": "2166",
+        "parent_exercise_id": "2163",
+        "name": "hard-questions",
+        "slug": "maths-hi-toh-hai__linear-equations/hard-questions",
+        "sequence_num": 5003,
+        "review_type": "peer",
+        "solution": null,
+        "content": "[{\"type\":\"markdown\",\"value\":\"\\n\\n## Hard Questions\\n 1. Two times a number, decreased by 12 equals three times the number, decreased by 15. Which is the number?\\n\\n        a) 2\\n        b) 3\\n        c) 7\\n        d) 9\\n\\n\\n 2. Twice a number equals 5 times the same number plus 18. Which is the number?\\n\\n        a) -3\\n        b) -4\\n        c) -9\\n        d) -6\\n\\n3. If `a + b = 29` , `b + c = 45`, `a + c = 44`. Find `a + b + c = `?\\n\\n        a) 56\\n        b) 54\\n        c) 59\\n        d) 23\\n\\n \\n\\n## Answers\\n 1. b\\n2. d\\n3. c \\n \"}]",
+        "submission_type": null,
+        "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/linear-equations/hard-questions.md"
+}

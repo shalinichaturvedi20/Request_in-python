@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": "2124",
+      "parent_exercise_id": null,
+      "name": "how-to-use",
+      "slug": "interview-preparation__how-to-use",
+      "sequence_num": 0,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/interview-preparation/how-to-use.md",
+      "submission_type": null,
+      "childExercises": []
+    },
+    {
+      "id": "2125",
+      "parent_exercise_id": null,
+      "name": "What is complexity?",
+      "slug": "interview-preparation__what-is-complexity",
+      "sequence_num": 100,
+      "review_type": "peer",
+      "github_link": "https://github.com/navgurukul/newton/tree/master/interview-preparation/what-is-complexity.md",
+      "submission_type": "url",
+      "childExercises": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "1659",
+    "parent_exercise_id": "1656",
+    "name": "loops-se-NG-ki-jung\n",
+    "slug": "bas-ek-galti__logical-errors/loops-se-NG-ki-jung",
+    "sequence_num": 3003,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"python\",\"value\":{\"code\":\"[70, 50, 20, 23, 40]\\ndef second_minimum(number):\\n  i = 0\\n  if number > 0:\\n          print 0\\n  else:\\n          while number > 0:\\n            i = i + num\\n            num = num + 1\\n            print i          \\n\\nprint(second_minimum([70, 50, 20, 23, 40]))\\nprint(second_minimum([70, 50, 10, 2, 40]))\\n\",\"testCases\":[]}},{\"type\":\"markdown\",\"value\":\"\\n\\n###### OUTPUT : 23\\n \\n\\n###### OUTPUT : 10\\n \"}]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/logical-errors/loops-se-NG-ki-jung.md"
+}
